@@ -1,8 +1,11 @@
 <component name="ProjectDictionaryState">
   <dictionary name="nooitz">
     <words>
+      <w>imagenet</w>
       <w>jacobian</w>
       <w>preds</w>
+      <w>unlab</w>
+      <w>unlabel</w>
     </words>
   </dictionary>
 </component>
