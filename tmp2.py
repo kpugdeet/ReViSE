@@ -128,3 +128,5 @@ for loop in range(10000):
     trainAcc = np.mean(np.equal(predictTrain, trainY))
     testAcc = np.mean(np.equal(predictTest, testY))
     print "{0:.5f}, {1:.5f}, {2:.5f}".format(trainAcc, testAcc, totalLoss)
+
+#Test
